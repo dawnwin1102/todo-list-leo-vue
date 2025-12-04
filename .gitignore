@@ -30,11 +30,12 @@ dist-ssr
 .env.test.local
 .env.production.local
 
-# Screenshot files
-screenshots/*.png
-!screenshots/*.html
-!screenshots/*.js
-!screenshots/*.sh
+# Screenshot files (exclude temp files, but keep important screenshots)
+screenshots/temp-*.png
+screenshots/temp-*.jpg
+!screenshots/dashboard.jpg
+!screenshots/todo-management.jpg
+!screenshots/ui-details.jpg
 
 # Test files
 test-api.js
