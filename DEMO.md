@@ -7,17 +7,17 @@
 ## 📸 应用截图
 
 ### 🏠 Dashboard 页面
-![Dashboard 页面](./screenshots/dashboard.png)
+![Dashboard 页面](https://raw.githubusercontent.com/dawnwin1102/todo-list-leo-vue/main/screenshots/dashboard.png)
 
 *梦幻仪表板展示任务统计数据，包含渐变背景和玻璃态卡片设计*
 
 ### 📝 任务管理页面  
-![任务管理页面](./screenshots/todo-management.png)
+![任务管理页面](https://raw.githubusercontent.com/dawnwin1102/todo-list-leo-vue/main/screenshots/todo-management.png)
 
 *魔法风格的待办事项管理界面，紫色渐变添加任务区域*
 
 ### 🎨 界面细节
-![界面细节](./screenshots/ui-details.png)
+![界面细节](https://raw.githubusercontent.com/dawnwin1102/todo-list-leo-vue/main/screenshots/ui-details.png)
 
 *悬浮效果、光效动画和圆润的界面元素*
 
@@ -157,5 +157,7 @@ curl 'http://localhost:8080/api/tasks?overdue=false'
 - **悬浮动画**：图标和卡片的轻柔浮动效果
 - **光效过渡**：按钮和卡片的光影扫过效果
 - **星星闪烁**：图标的旋转缩放动画，增添魔法感
+
+> **📸 截图说明**: 如果截图无法显示，请确保截图文件已上传到仓库。截图文件位于 `screenshots/` 目录下。
 
 享受您的魔法 Todo 应用！🏰✨
